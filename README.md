@@ -10,5 +10,5 @@ In Massachusetts, home to Harvard University, it’s possible to request a vanit
 
 4. “No periods, spaces, or punctuation marks are allowed.”
 
-In plates.py, implemented a program that prompts the user for a vanity plate and then output Valid if meets all of the requirements or Invalid if it does not. Assuming that any letters in the user’s input will be uppercase. Structure your program per the below, wherein is_valid returns True if s meets all requirements and False if it does not. Assume that s will be a str.
+In plates.py, I implemented a program that prompts the user for a vanity plate and then output Valid if meets all of the requirements or Invalid if it does not. Assuming that any letters in the user’s input will be uppercase. Structured by program per the below, wherein is_valid returns True if s meets all requirements and False if it does not. Assumed that s will be a str.
 
